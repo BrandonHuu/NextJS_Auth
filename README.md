@@ -24,13 +24,17 @@ Download?
 
 ## Api routes
 /api/v1/signup
+
 /api/v1/login
+
 /api/v1/logout
 
 ## Pages
 
 /auth/login
+
 /auth/signup
+
 /
 
 
