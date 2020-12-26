@@ -22,6 +22,18 @@ Download?
   npm run dev
 ```
 
+## Api routes
+/api/v1/signup
+/api/v1/login
+/api/v1/logout
+
+## Pages
+
+/auth/login
+/auth/signup
+/
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/BrandonHuu/NextJS_Auth.svg?style=for-the-badge
